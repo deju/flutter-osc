@@ -57,3 +57,40 @@
     <img src='./screenshots/android08.jpg' width=280>
     <img src='./screenshots/android09.jpg' width=280>
 </div>
+
+
+### flutter doctor -v
+
+        flutter doctor -v
+        [✓] Flutter (Channel beta, v0.5.1, on Mac OS X 10.13.5 17F77, locale zh-Hans-CN)
+            • Flutter version 0.5.1 at /Users/juju/libs/flutter
+            • Framework revision c7ea3ca377 (8 weeks ago), 2018-05-29 21:07:33 +0200
+            • Engine revision 1ed25ca7b7
+            • Dart version 2.0.0-dev.58.0.flutter-f981f09760
+
+        [✓] Android toolchain - develop for Android devices (Android SDK 28.0.1)
+            • Android SDK at /Users/juju/Library/Android/sdk
+            • Android NDK location not configured (optional; useful for native profiling support)
+            • Platform android-28, build-tools 28.0.1
+            • ANDROID_HOME = /Users/juju/Library/Android/sdk
+            • Java binary at: /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java
+            • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1024-b01)
+            • All Android licenses accepted.
+
+        [✓] iOS toolchain - develop for iOS devices (Xcode 9.4.1)
+            • Xcode at /Applications/Xcode.app/Contents/Developer
+            • Xcode 9.4.1, Build version 9F2000
+            • ios-deploy 1.9.2
+            • CocoaPods version 1.5.3
+
+        [✓] Android Studio (version 3.1)
+            • Android Studio at /Applications/Android Studio.app/Contents
+            • Flutter plugin version 26.0.1
+            • Dart plugin version 173.4700
+            • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1024-b01)
+
+        [✓] Connected devices (2 available)
+            • iPhone 7 • C528A610-1B20-479A-AC60-266F78EE6EE6 • ios • iOS 11.4 (simulator)
+            • iPhone X • A4A4D952-A762-41E2-B4B2-75C7D3B5C069 • ios • iOS 11.4 (simulator)
+
+        • No issues found!
